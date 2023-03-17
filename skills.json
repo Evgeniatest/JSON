@@ -1,7 +1,7 @@
 {
-    ""[DSkill1":""[DClient-server",
-    ""[DSkill2":""[DJSON,XML",
-    ""[DSkill3":"",[D[DAPI Postman",
-    ""[DSkill4":"",[D[Dterminal Linux",
-    ""[DSkill5":"SQL"
+    "Skill1":"Client-server",
+    "Skill2":"JSON,XML",
+    "Skill3":"API Postman",
+    "Skill4":"terminal Linux",
+    "Skill5":"SQL"
 }
