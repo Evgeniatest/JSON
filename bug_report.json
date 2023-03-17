@@ -1,1 +1,14 @@
-
+{
+  "Environment":"iPhone 7 iOS 15.7.3",
+  "ID":1 ,
+  "Summary":"<What?Where?Why?>",
+  "Sterps":{
+          "Step1":"<step description>",
+          "Step2":"<step description>"          
+           },
+  "Severity":"Major",
+  "Priority":"High",
+  "Expected Result":"The app is open",
+  "Actual Result":"The app is crash",
+  "Attachments":"<link>"
+}
