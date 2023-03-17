@@ -11,7 +11,7 @@
 >git add new.json
 
 **5. Закоммитить файл**
->git commit -m "  "
+>git commit -m "add new.json"
 
 **6. Отправить файл на внешний GitHub репозиторий**
 >git push
@@ -34,7 +34,7 @@
 >vim skills.json ---> insert data ---> esc ---> enter ":wq"
 
 **12. Отправить сразу 2 файла на внешний репозиторий**
->git add . && git commit -m "add 2 file" && git push
+>git add . && git commit -m "add new information" && git push
 
 **13. На веб интерфейсе создать файл bug_report.json**
 >Add file --> Create new file --> Name: bug_report.json
